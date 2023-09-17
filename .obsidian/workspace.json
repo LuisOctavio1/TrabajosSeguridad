@@ -11,17 +11,21 @@
             "id": "75a0aee922d20099",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/plantilla.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "78cc14623a1211b8",
+            "id": "04dd4cf3fe1bdb47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fdg.md",
+                "file": "retos-bandit/Bandit 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fdg.md",
+                "file": "retos-bandit/Bandit 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fdg.md",
+                "file": "retos-bandit/Bandit 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fdg.md"
+                "file": "retos-bandit/Bandit 10.md"
               }
             }
           }
@@ -155,8 +159,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "78cc14623a1211b8",
+  "active": "04dd4cf3fe1bdb47",
   "lastOpenFiles": [
+    "retos-bandit/plantilla.md",
+    "retos-bandit/Bandit 10.md",
+    "Sin título",
+    "README.md",
+    "README/Sin título.md",
+    "Sin título 1.md",
+    "README",
+    "retos-bandit",
+    "Sin título 1",
     "fdg.md"
   ]
 }
