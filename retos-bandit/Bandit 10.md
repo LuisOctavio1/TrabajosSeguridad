@@ -6,6 +6,7 @@ El objetivo de este reto es obtener la contraseña de un archivo data.txt que es
 **bandit10@bandit.labs.overthewire.org**
 G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 ## Solución
+```
 PS C:\Users\PC\.ssh> ssh bandit10@bandit.labs.overthewire.org -p 2220
 
 --[ More information ]--
@@ -26,4 +27,5 @@ The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 
 ## Notas adicionales
 Lo primero que se hace es ver el contenido del archivo data con cat, esta en base 64 como se indico en el problema, asi que utilizamos el comando cat data.txt concatenado con el comando base64 -d, el cual decodifica codigo base 64 y da el resultado como salida, dando la contraseña
+```
 ## Referencias
