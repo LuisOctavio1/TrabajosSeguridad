@@ -17,8 +17,8 @@ PS C:\Users\PC\.ssh> ssh bandit10@bandit.labs.overthewire.org -p 2220
 
   Enjoy your stay!
 
-bandit10@bandit:~$ ls
-data.txt
+bandit10@bandit:~$ ls  
+data.txt  
 bandit10@bandit:~$ cat data.txt  
 VGhlIHBhc3N3b3JkIGlzIDZ6UGV6aUxkUjJSS05kTllGTmI2blZDS3pwaGxYSEJNCg==  
 bandit10@bandit:~$ cat data.txt | base64 -d  
