@@ -19,10 +19,10 @@ PS C:\Users\PC\.ssh> ssh bandit10@bandit.labs.overthewire.org -p 2220
 
 bandit10@bandit:~$ ls
 data.txt
-bandit10@bandit:~$ cat data.txt
-VGhlIHBhc3N3b3JkIGlzIDZ6UGV6aUxkUjJSS05kTllGTmI2blZDS3pwaGxYSEJNCg==
-bandit10@bandit:~$ cat data.txt | base64 -d
-The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+bandit10@bandit:~$ cat data.txt  
+VGhlIHBhc3N3b3JkIGlzIDZ6UGV6aUxkUjJSS05kTllGTmI2blZDS3pwaGxYSEJNCg==  
+bandit10@bandit:~$ cat data.txt | base64 -d  
+The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM  
 
 ## Notas adicionales
 Lo primero que se hace es ver el contenido del archivo data con cat, esta en base 64 como se indico en el problema, asi que utilizamos el comando cat data.txt concatenado con el comando base64 -d, el cual decodifica codigo base 64 y da el resultado como salida, dando la contraseña
