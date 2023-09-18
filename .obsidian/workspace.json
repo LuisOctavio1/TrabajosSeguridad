@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8926d840538e57fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Bandit 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f0ffcc6b5db9023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Bandit 15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Bandit 10.md",
+                "file": "retos-bandit/Bandit 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Bandit 10.md",
+                "file": "retos-bandit/Bandit 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Bandit 10.md"
+                "file": "retos-bandit/Bandit 15.md"
               }
             }
           }
@@ -159,14 +183,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "04dd4cf3fe1bdb47",
+  "active": "5f0ffcc6b5db9023",
   "lastOpenFiles": [
-    "retos-bandit/plantilla.md",
+    "retos-bandit/Bandit 12.md",
+    "retos-bandit/Bandit 13.md",
+    "retos-bandit/Bandit 14.md",
+    "retos-bandit/Bandit 15.md",
+    "retos-bandit/Bandit 11.md",
     "retos-bandit/Bandit 10.md",
-    "Sin título",
+    "retos-bandit/plantilla.md",
     "README.md",
-    "README/Sin título.md",
+    "Sin título.md",
     "Sin título 1.md",
+    "Sin título",
+    "README/Sin título.md",
     "README",
     "retos-bandit",
     "Sin título 1",

@@ -1,4 +1,4 @@
-# Level X
+# Level 10
 
 ## Objetivo
 El objetivo de este reto es obtener la contraseña de un archivo data.txt que esta en codigo base64
