@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Bandit 21.md",
+                "file": "examen-1/19- PW Crack 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Bandit 21.md",
+                "file": "examen-1/19- PW Crack 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Bandit 21.md",
+                "file": "examen-1/19- PW Crack 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Bandit 21.md"
+                "file": "examen-1/19- PW Crack 1.md"
               }
             }
           }
@@ -148,28 +148,37 @@
   },
   "active": "5f0ffcc6b5db9023",
   "lastOpenFiles": [
-    "retos-bandit/Bandit 20.md",
-    "retos-bandit/Bandit 19.md",
-    "retos-bandit/Bandit 18.md",
-    "retos-bandit/Bandit 17.md",
-    "retos-bandit/Bandit 16.md",
-    "retos-bandit/Bandit 21.md",
+    "examen-1/20- PW Crack 2.md",
+    "examen-1/21- PW Crack3.md",
+    "examen-1/19- PW Crack 1.md",
+    "Sin título 1",
     "retos-bandit/plantilla.md",
-    "Sin título.md",
-    "contra.txt",
-    "Sin título 1.md",
-    "Sin título",
-    "retos-bandit/Bandit 15.md",
+    "examen-1/18- Glitch Cat.md",
+    "examen-1/17- fixme2.py.md",
+    "examen-1/16- what's a net cat.md",
+    "examen-1/15- strings it.md",
+    "examen-1/14- fixme1.py.md",
+    "examen-1/13- First Grep.md",
+    "examen-1/12- convertme.py.md",
+    "examen-1/11- Codebook.md",
+    "examen-1/10- Bases.md",
+    "examen-1/9- 2Warm.md",
+    "retos-bandit/Bandit 11.md",
     "retos-bandit/Bandit 12.md",
     "retos-bandit/Bandit 13.md",
-    "retos-bandit/Bandit 14.md",
-    "retos-bandit/Bandit 11.md",
-    "retos-bandit/Bandit 10.md",
+    "retos-bandit/Bandit 20.md",
+    "retos-bandit/Bandit 19.md",
+    "retos-bandit/Bandit 17.md",
+    "retos-bandit/Bandit 16.md",
     "README.md",
-    "README/Sin título.md",
+    "examen-1",
+    "retos-bandit/Bandit 21.md",
+    "retos-bandit/Bandit 15.md",
+    "retos-bandit/Bandit 18.md",
+    "Sin título.md",
+    "contra.txt",
+    "Sin título",
     "README",
-    "retos-bandit",
-    "Sin título 1",
-    "fdg.md"
+    "retos-bandit"
   ]
 }
