@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "examen-1/19- PW Crack 1.md",
+                "file": "examen-1/24- plumbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "examen-1/19- PW Crack 1.md",
+                "file": "examen-1/24- plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "examen-1/19- PW Crack 1.md",
+                "file": "examen-1/24- plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "examen-1/19- PW Crack 1.md"
+                "file": "examen-1/24- plumbing.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "5f0ffcc6b5db9023",
   "lastOpenFiles": [
-    "examen-1/20- PW Crack 2.md",
-    "examen-1/21- PW Crack3.md",
-    "examen-1/19- PW Crack 1.md",
-    "Sin título 1",
     "retos-bandit/plantilla.md",
+    "examen-1/24- plumbing.md",
+    "retos-bandit/Bandit 21.md",
+    "examen-1/23- Based.md",
+    "examen-1/22- runme.py.md",
+    "examen-1/21- PW Crack3.md",
+    "examen-1/20- PW Crack 2.md",
+    "examen-1/19- PW Crack 1.md",
     "examen-1/18- Glitch Cat.md",
     "examen-1/17- fixme2.py.md",
     "examen-1/16- what's a net cat.md",
@@ -163,6 +166,7 @@
     "examen-1/11- Codebook.md",
     "examen-1/10- Bases.md",
     "examen-1/9- 2Warm.md",
+    "Sin título 1",
     "retos-bandit/Bandit 11.md",
     "retos-bandit/Bandit 12.md",
     "retos-bandit/Bandit 13.md",
@@ -172,10 +176,6 @@
     "retos-bandit/Bandit 16.md",
     "README.md",
     "examen-1",
-    "retos-bandit/Bandit 21.md",
-    "retos-bandit/Bandit 15.md",
-    "retos-bandit/Bandit 18.md",
-    "Sin título.md",
     "contra.txt",
     "Sin título",
     "README",
