@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "examen-1/8- Warmed Up.md",
+                "file": "retos-bandit/Bandit 28.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "examen-1/8- Warmed Up.md",
+                "file": "retos-bandit/Bandit 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "examen-1/8- Warmed Up.md",
+                "file": "retos-bandit/Bandit 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "examen-1/8- Warmed Up.md"
+                "file": "retos-bandit/Bandit 28.md"
               }
             }
           }
@@ -161,8 +161,14 @@
   },
   "active": "f639f32b2acbb3c6",
   "lastOpenFiles": [
-    "examen-1/7- Lets Warm Up.md",
+    "retos-bandit/Bandit 32.md",
+    "retos-bandit/Bandit 31.md",
+    "retos-bandit/Bandit 30.md",
+    "retos-bandit/Bandit 29.md",
+    "retos-bandit/Bandit 28.md",
+    "retos-bandit/plantilla.md",
     "examen-1/8- Warmed Up.md",
+    "examen-1/7- Lets Warm Up.md",
     "examen-1/6- Magikarp Ground Mission.md",
     "examen-1/5- Tab, Tab, Attack.md",
     "examen-1/4- Static ain't always noise.md",
@@ -171,7 +177,6 @@
     "examen-1/1- Obedient Cat.md",
     "examen-1/9- Warm.md",
     "examen-1/24- plumbing.md",
-    "retos-bandit/plantilla.md",
     "retos-bandit/Bandit 21.md",
     "examen-1/23- Based.md",
     "examen-1/22- runme.py.md",
@@ -182,11 +187,6 @@
     "examen-1/17- fixme2.py.md",
     "examen-1/16- what's a net cat.md",
     "examen-1/15- strings it.md",
-    "examen-1/14- fixme1.py.md",
-    "examen-1/13- First Grep.md",
-    "examen-1/12- convertme.py.md",
-    "examen-1/11- Codebook.md",
-    "examen-1/10- Bases.md",
     "Sin título 1",
     "examen-1",
     "contra.txt",
