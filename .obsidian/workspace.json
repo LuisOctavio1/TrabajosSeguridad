@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-WEB/6-picobrowser.md",
+                "file": "retos-WEB/10-JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-WEB/6-picobrowser.md",
+                "file": "retos-WEB/10-JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-WEB/6-picobrowser.md",
+                "file": "retos-WEB/10-JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-WEB/6-picobrowser.md"
+                "file": "retos-WEB/10-JaWT Scratchpad.md"
               }
             }
           }
@@ -148,13 +148,17 @@
   },
   "active": "5f0ffcc6b5db9023",
   "lastOpenFiles": [
+    "retos-WEB/plantilla.md",
+    "retos-WEB/10-JaWT Scratchpad.md",
+    "retos-WEB/9- Irish-Name-Repo 3.md",
+    "retos-WEB/7-Irish-Name-Repo 1.md",
+    "retos-WEB/8- Irish-Name-Repo 2.md",
+    "retos-WEB/6-picobrowser.md",
     "retos-WEB/5-Client-side-again.md",
     "retos-WEB/4- where are de robots.md",
     "retos-WEB/3-logon.md",
     "retos-WEB/2-dont-use-client-side.md",
     "retos-WEB/1-Insp3ct0r.md",
-    "retos-WEB/6-picobrowser.md",
-    "retos-WEB/plantilla.md",
     "examen-1/3- Nice netat.md",
     "2023-10-09.md",
     "examen-1/24- plumbing.md",
@@ -172,10 +176,6 @@
     "examen-1/5- Tab, Tab, Attack.md",
     "examen-1/4- Static ain't always noise.md",
     "examen-1/2- Wave a flag.md",
-    "examen-1/1- Obedient Cat.md",
-    "examen-1/9- Warm.md",
-    "retos-bandit/Bandit 21.md",
-    "examen-1/23- Based.md",
     "Sin título 1",
     "examen-1",
     "contra.txt",
