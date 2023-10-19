@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a026e65d996602c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-forence/5- What Lies Within.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-WEB/13-Scavenger Hunt.md",
+                "file": "retos-forence/5- What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-WEB/13-Scavenger Hunt.md",
+                "file": "retos-forence/5- What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-WEB/13-Scavenger Hunt.md"
+                "file": "retos-forence/5- What Lies Within.md"
               }
             }
           }
@@ -146,12 +159,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5f0ffcc6b5db9023",
+  "active": "a026e65d996602c9",
   "lastOpenFiles": [
+    "retos-forence/4-So Meta.md",
+    "retos-forence/3- shark on wire 1.md",
+    "retos-forence/2-extensions.md",
+    "retos-forence/1- Glory of the Garden.md",
+    "retos-forence/5- What Lies Within.md",
+    "archivosForence/buildings.png",
+    "buildings.png",
+    "archivosForence/pico_img.png",
+    "pico_img.png",
+    "archivosForence/capture.pcap",
+    "capture.pcap",
+    "archivosForence/flag.png",
+    "archivosForence/flag.txt",
+    "flag.txt",
+    "retos-forence/plantilla.md",
+    "retos-WEB/plantilla.md",
+    "retos-forence",
     "retos-WEB/12-Cookies.md",
     "retos-WEB/13-Scavenger Hunt.md",
     "retos-WEB/11- Get aHEAD.md",
-    "retos-WEB/plantilla.md",
     "retos-WEB/10-JaWT Scratchpad.md",
     "retos-WEB/9- Irish-Name-Repo 3.md",
     "retos-WEB/7-Irish-Name-Repo 1.md",
@@ -170,16 +199,9 @@
     "retos-bandit/Bandit 29.md",
     "retos-WEB",
     "retos-bandit/Bandit 30.md",
-    "retos-bandit/Bandit 31.md",
-    "retos-bandit/Bandit 32.md",
-    "retos-bandit/Bandit 28.md",
-    "examen-1/8- Warmed Up.md",
-    "examen-1/7- Lets Warm Up.md",
-    "examen-1/6- Magikarp Ground Mission.md",
     "Sin título 1",
     "examen-1",
     "contra.txt",
-    "README",
-    "retos-bandit"
+    "README"
   ]
 }
