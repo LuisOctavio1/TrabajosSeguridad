@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-forence/5- What Lies Within.md",
+                "file": "retos-forence/8- m00nwalk.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-forence/5- What Lies Within.md",
+                "file": "retos-forence/8- m00nwalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-forence/5- What Lies Within.md",
+                "file": "retos-forence/8- m00nwalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-forence/5- What Lies Within.md"
+                "file": "retos-forence/8- m00nwalk.md"
               }
             }
           }
@@ -161,23 +161,36 @@
   },
   "active": "a026e65d996602c9",
   "lastOpenFiles": [
+    "retos-forence/9- WhitePages.md",
+    "retos-forence/10- shark on wire 2.md",
+    "retos-forence/8- m00nwalk.md",
+    "archivosForence/exp2.py",
     "retos-forence/4-So Meta.md",
-    "retos-forence/3- shark on wire 1.md",
-    "retos-forence/2-extensions.md",
-    "retos-forence/1- Glory of the Garden.md",
     "retos-forence/5- What Lies Within.md",
+    "retos-forence/6- c0rrupt.md",
+    "retos-forence/7-like1000.md",
+    "archivosForence/capture.pcap",
+    "archivosForence/capture(1).pcap",
+    "capture(1).pcap",
+    "archivosForence/exp.py",
+    "archivosForence/whitepages.txt",
+    "whitepages.txt",
+    "retos-forence/plantilla.md",
+    "archivosForence/result.png",
+    "archivosForence/sstv/dist/sstv-0.1-py3.11.egg",
+    "archivosForence/sstv/dist",
+    "archivosForence/sstv/build/bdist.linux-x86_64/egg/sstv/__pycache__/__main__.cpython-311.pyc",
+    "archivosForence/sstv/examples/m1.png",
+    "archivosForence/sstv/README.md",
+    "retos-forence/1- Glory of the Garden.md",
+    "retos-forence/2-extensions.md",
+    "retos-forence/3- shark on wire 1.md",
     "archivosForence/buildings.png",
     "buildings.png",
     "archivosForence/pico_img.png",
     "pico_img.png",
-    "archivosForence/capture.pcap",
-    "capture.pcap",
     "archivosForence/flag.png",
-    "archivosForence/flag.txt",
-    "flag.txt",
-    "retos-forence/plantilla.md",
     "retos-WEB/plantilla.md",
-    "retos-forence",
     "retos-WEB/12-Cookies.md",
     "retos-WEB/13-Scavenger Hunt.md",
     "retos-WEB/11- Get aHEAD.md",
@@ -190,18 +203,6 @@
     "retos-WEB/4- where are de robots.md",
     "retos-WEB/3-logon.md",
     "retos-WEB/2-dont-use-client-side.md",
-    "retos-WEB/1-Insp3ct0r.md",
-    "examen-1/3- Nice netat.md",
-    "2023-10-09.md",
-    "examen-1/24- plumbing.md",
-    "Sin título.canvas",
-    "retos-bandit/plantilla.md",
-    "retos-bandit/Bandit 29.md",
-    "retos-WEB",
-    "retos-bandit/Bandit 30.md",
-    "Sin título 1",
-    "examen-1",
-    "contra.txt",
-    "README"
+    "Sin título.canvas"
   ]
 }
