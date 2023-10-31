@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-forence/8- m00nwalk.md",
+                "file": "retos-forence/15- WebNet1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-forence/8- m00nwalk.md",
+                "file": "retos-forence/15- WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-forence/8- m00nwalk.md",
+                "file": "retos-forence/15- WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-forence/8- m00nwalk.md"
+                "file": "retos-forence/15- WebNet1.md"
               }
             }
           }
@@ -161,25 +161,33 @@
   },
   "active": "a026e65d996602c9",
   "lastOpenFiles": [
-    "retos-forence/9- WhitePages.md",
+    "archivosForence/picopico(1).key",
+    "archivosForence/capture(3).pcap",
+    "picopico(1).key",
+    "capture(3).pcap",
+    "retos-forence/plantilla.md",
+    "retos-forence/14- WebNet0.md",
+    "retos-forence/15- WebNet1.md",
+    "retos-forence/12- tunn3l v1s10n.md",
+    "retos-forence/13- MacroHard WeakEdge.md",
+    "archivosForence/capture(2).pcap",
+    "capture(2).pcap",
+    "archivosForence/picopico.key",
+    "capture.pcap",
+    "picopico.key",
+    "archivosForence/ppt/slides/_rels/slide17.xml.rels",
+    "archivosForence/ppt/slides/_rels/slide18.xml.rels",
+    "archivosForence/docProps/thumbnail.jpeg",
+    "archivosForence/tunn3l_v1s10n.bmp",
+    "retos-forence/11- Matryoshka doll.md",
     "retos-forence/10- shark on wire 2.md",
     "retos-forence/8- m00nwalk.md",
-    "archivosForence/exp2.py",
+    "retos-forence/9- WhitePages.md",
     "retos-forence/4-So Meta.md",
     "retos-forence/5- What Lies Within.md",
     "retos-forence/6- c0rrupt.md",
     "retos-forence/7-like1000.md",
-    "archivosForence/capture.pcap",
-    "archivosForence/capture(1).pcap",
-    "capture(1).pcap",
-    "archivosForence/exp.py",
-    "archivosForence/whitepages.txt",
-    "whitepages.txt",
-    "retos-forence/plantilla.md",
     "archivosForence/result.png",
-    "archivosForence/sstv/dist/sstv-0.1-py3.11.egg",
-    "archivosForence/sstv/dist",
-    "archivosForence/sstv/build/bdist.linux-x86_64/egg/sstv/__pycache__/__main__.cpython-311.pyc",
     "archivosForence/sstv/examples/m1.png",
     "archivosForence/sstv/README.md",
     "retos-forence/1- Glory of the Garden.md",
@@ -198,11 +206,6 @@
     "retos-WEB/9- Irish-Name-Repo 3.md",
     "retos-WEB/7-Irish-Name-Repo 1.md",
     "retos-WEB/8- Irish-Name-Repo 2.md",
-    "retos-WEB/6-picobrowser.md",
-    "retos-WEB/5-Client-side-again.md",
-    "retos-WEB/4- where are de robots.md",
-    "retos-WEB/3-logon.md",
-    "retos-WEB/2-dont-use-client-side.md",
     "Sin título.canvas"
   ]
 }
