@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "986d852232667ec0",
+        "id": "1b199b28dd272a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "5f0ffcc6b5db9023",
+            "id": "2749a3d6fd160aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-WEB/13-Scavenger Hunt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a026e65d996602c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-forence/15- WebNet1.md",
+                "file": "examen-2/16-St3g0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-forence/15- WebNet1.md",
+                "file": "examen-2/16-St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-forence/15- WebNet1.md",
+                "file": "examen-2/16-St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-forence/15- WebNet1.md"
+                "file": "examen-2/16-St3g0.md"
               }
             }
           }
@@ -159,52 +146,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a026e65d996602c9",
+  "active": "2749a3d6fd160aba",
   "lastOpenFiles": [
-    "retos-forence/14- WebNet0.md",
-    "retos-forence/13- MacroHard WeakEdge.md",
-    "retos-forence/11- Matryoshka doll.md",
-    "retos-forence/12- tunn3l v1s10n.md",
-    "retos-forence/15- WebNet1.md",
-    "archivosForence/picopico(1).key",
-    "archivosForence/capture(3).pcap",
-    "picopico(1).key",
-    "capture(3).pcap",
-    "retos-forence/plantilla.md",
-    "archivosForence/capture(2).pcap",
-    "capture(2).pcap",
-    "archivosForence/picopico.key",
-    "capture.pcap",
-    "picopico.key",
-    "archivosForence/ppt/slides/_rels/slide17.xml.rels",
-    "archivosForence/docProps/thumbnail.jpeg",
-    "archivosForence/tunn3l_v1s10n.bmp",
-    "retos-forence/10- shark on wire 2.md",
-    "retos-forence/8- m00nwalk.md",
-    "retos-forence/9- WhitePages.md",
-    "retos-forence/4-So Meta.md",
-    "retos-forence/5- What Lies Within.md",
+    "examen-2/13- Lookey here.md",
+    "examen-2/14-Packets Primer.md",
+    "examen-2/15-Redaction gone wrong.md",
+    "examen-2/16-St3g0.md",
     "retos-forence/6- c0rrupt.md",
     "retos-forence/7-like1000.md",
+    "retos-forence/8- m00nwalk.md",
+    "retos-forence/9- WhitePages.md",
+    "retos-forence/10- shark on wire 2.md",
+    "retos-forence/11- Matryoshka doll.md",
+    "retos-forence/12- tunn3l v1s10n.md",
+    "retos-forence/13- MacroHard WeakEdge.md",
+    "retos-forence/14- WebNet0.md",
+    "retos-forence/15- WebNet1.md",
+    "archivosForence/pico.flag.png",
+    "pico.flag.png",
+    "archivosForence/Microsoft Word - Financial Report for ABC Labs.docx - Financial_Report_for_ABC_Labs.pdf",
+    "examen-2/10-information.md",
+    "archivosForence/network-dump.flag.pcap",
+    "network-dump.flag.pcap",
+    "examen-2/11-Wireshark doo dooo do doo....md",
+    "examen-2/12-Enhance!.md",
+    "archivosForence/anthem.flag.txt",
+    "anthem.flag.txt",
+    "retos-WEB/13-Scavenger Hunt.md",
+    "archivosForence/drawing.flag.svg",
+    "drawing.flag.svg",
+    "examen-2/plantilla.md",
+    "archivosForence/shark1.pcapng",
+    "shark1.pcapng",
+    "examen-2/8-Secrets.md",
+    "examen-2/9-SQL Direct.md",
+    "archivosForence/cat.jpg",
+    "cat.jpg",
+    "examen-2/7-Roboto Sans.md",
+    "examen-2/6-Power Cookie.md",
+    "examen-2/5-Forbidden Paths.md",
+    "examen-2/4-Search source.md",
+    "examen-2/3-Local Authority.md",
+    "examen-2",
+    "archivosForence/picopico(1).key",
+    "archivosForence/capture(3).pcap",
+    "archivosForence/docProps/thumbnail.jpeg",
+    "archivosForence/tunn3l_v1s10n.bmp",
     "archivosForence/result.png",
     "archivosForence/sstv/examples/m1.png",
-    "archivosForence/sstv/README.md",
-    "retos-forence/1- Glory of the Garden.md",
-    "retos-forence/2-extensions.md",
-    "retos-forence/3- shark on wire 1.md",
-    "archivosForence/buildings.png",
-    "buildings.png",
-    "archivosForence/pico_img.png",
-    "pico_img.png",
-    "archivosForence/flag.png",
-    "retos-WEB/plantilla.md",
-    "retos-WEB/12-Cookies.md",
-    "retos-WEB/13-Scavenger Hunt.md",
-    "retos-WEB/11- Get aHEAD.md",
-    "retos-WEB/10-JaWT Scratchpad.md",
-    "retos-WEB/9- Irish-Name-Repo 3.md",
-    "retos-WEB/7-Irish-Name-Repo 1.md",
-    "retos-WEB/8- Irish-Name-Repo 2.md",
     "Sin título.canvas"
   ]
 }
