@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "examen-2/16-St3g0.md",
+                "file": "retos-crypto/3-b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "examen-2/16-St3g0.md",
+                "file": "retos-crypto/3-b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "examen-2/16-St3g0.md",
+                "file": "retos-crypto/3-b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "examen-2/16-St3g0.md"
+                "file": "retos-crypto/3-b00tl3gRSA2.md"
               }
             }
           }
@@ -148,10 +148,25 @@
   },
   "active": "2749a3d6fd160aba",
   "lastOpenFiles": [
+    "codigos-crypto/script3.py",
+    "retos-crypto/1-rsa-pop-quiz.md",
+    "retos-crypto/2-miniRSA.md",
+    "retos-crypto/3-b00tl3gRSA2.md",
+    "script3.py",
+    "Nuevo Documento de texto.txt",
+    "codigos-crypto/script2.py",
+    "script2.py",
+    "codigos-crypto/script.py",
+    "codigos-crypto",
+    "codigos/script.py",
+    "codigos",
+    "Nueva carpeta",
+    "retos-WEB/plantilla.md",
+    "examen-2/16-St3g0.md",
+    "retos-crypto",
     "examen-2/13- Lookey here.md",
     "examen-2/14-Packets Primer.md",
     "examen-2/15-Redaction gone wrong.md",
-    "examen-2/16-St3g0.md",
     "retos-forence/6- c0rrupt.md",
     "retos-forence/7-like1000.md",
     "retos-forence/8- m00nwalk.md",
@@ -164,32 +179,17 @@
     "retos-forence/15- WebNet1.md",
     "archivosForence/pico.flag.png",
     "pico.flag.png",
-    "archivosForence/Microsoft Word - Financial Report for ABC Labs.docx - Financial_Report_for_ABC_Labs.pdf",
     "examen-2/10-information.md",
-    "archivosForence/network-dump.flag.pcap",
-    "network-dump.flag.pcap",
     "examen-2/11-Wireshark doo dooo do doo....md",
     "examen-2/12-Enhance!.md",
-    "archivosForence/anthem.flag.txt",
-    "anthem.flag.txt",
     "retos-WEB/13-Scavenger Hunt.md",
     "archivosForence/drawing.flag.svg",
     "drawing.flag.svg",
     "examen-2/plantilla.md",
-    "archivosForence/shark1.pcapng",
-    "shark1.pcapng",
     "examen-2/8-Secrets.md",
     "examen-2/9-SQL Direct.md",
     "archivosForence/cat.jpg",
     "cat.jpg",
-    "examen-2/7-Roboto Sans.md",
-    "examen-2/6-Power Cookie.md",
-    "examen-2/5-Forbidden Paths.md",
-    "examen-2/4-Search source.md",
-    "examen-2/3-Local Authority.md",
-    "examen-2",
-    "archivosForence/picopico(1).key",
-    "archivosForence/capture(3).pcap",
     "archivosForence/docProps/thumbnail.jpeg",
     "archivosForence/tunn3l_v1s10n.bmp",
     "archivosForence/result.png",
