@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-crypto/3-b00tl3gRSA2.md",
+                "file": "retos-crypto/8-ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-crypto/3-b00tl3gRSA2.md",
+                "file": "retos-crypto/8-ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-crypto/3-b00tl3gRSA2.md",
+                "file": "retos-crypto/8-ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-crypto/3-b00tl3gRSA2.md"
+                "file": "retos-crypto/8-ReadMyCert.md"
               }
             }
           }
@@ -148,22 +148,32 @@
   },
   "active": "2749a3d6fd160aba",
   "lastOpenFiles": [
-    "codigos-crypto/script3.py",
+    "codigos-crypto/encrypted.txt",
+    "codigos-crypto/message.txt",
+    "codigos-crypto/scrambled1.png",
+    "codigos-crypto/scrambled2.png",
+    "codigos-crypto/script6.py",
+    "codigos-crypto/script5.py",
+    "codigos-crypto/readmycert.csr",
+    "retos-crypto/6- HideToSee.md",
+    "retos-crypto/7-Pixelated.md",
+    "retos-crypto/8-ReadMyCert.md",
+    "readmycert.csr",
+    "retos-WEB/plantilla.md",
+    "bin/stegsolve.jar",
+    "stegsolve.jar",
+    "bin",
+    "scrambled1.png",
+    "scrambled2.png",
+    "script6.py",
+    "Nuevo Documento de texto.txt",
+    "retos-crypto/5-basic-mod1.md",
+    "atbash.jpg",
+    "retos-crypto/4-Mind your Ps and Qs.md",
+    "retos-crypto/3-b00tl3gRSA2.md",
     "retos-crypto/1-rsa-pop-quiz.md",
     "retos-crypto/2-miniRSA.md",
-    "retos-crypto/3-b00tl3gRSA2.md",
-    "script3.py",
-    "Nuevo Documento de texto.txt",
-    "codigos-crypto/script2.py",
-    "script2.py",
-    "codigos-crypto/script.py",
-    "codigos-crypto",
-    "codigos/script.py",
-    "codigos",
-    "Nueva carpeta",
-    "retos-WEB/plantilla.md",
     "examen-2/16-St3g0.md",
-    "retos-crypto",
     "examen-2/13- Lookey here.md",
     "examen-2/14-Packets Primer.md",
     "examen-2/15-Redaction gone wrong.md",
@@ -181,19 +191,9 @@
     "pico.flag.png",
     "examen-2/10-information.md",
     "examen-2/11-Wireshark doo dooo do doo....md",
-    "examen-2/12-Enhance!.md",
-    "retos-WEB/13-Scavenger Hunt.md",
     "archivosForence/drawing.flag.svg",
     "drawing.flag.svg",
-    "examen-2/plantilla.md",
-    "examen-2/8-Secrets.md",
-    "examen-2/9-SQL Direct.md",
     "archivosForence/cat.jpg",
-    "cat.jpg",
-    "archivosForence/docProps/thumbnail.jpeg",
-    "archivosForence/tunn3l_v1s10n.bmp",
-    "archivosForence/result.png",
-    "archivosForence/sstv/examples/m1.png",
     "Sin título.canvas"
   ]
 }
