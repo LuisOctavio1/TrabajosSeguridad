@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-crypto/8-ReadMyCert.md",
+                "file": "retos-reverse/1-vault-door-training.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-crypto/8-ReadMyCert.md",
+                "file": "retos-reverse/1-vault-door-training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-crypto/8-ReadMyCert.md",
+                "file": "retos-reverse/1-vault-door-training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-crypto/8-ReadMyCert.md"
+                "file": "retos-reverse/1-vault-door-training.md"
               }
             }
           }
@@ -148,25 +148,31 @@
   },
   "active": "2749a3d6fd160aba",
   "lastOpenFiles": [
-    "codigos-crypto/encrypted.txt",
-    "codigos-crypto/message.txt",
+    "retos-reverse/3-vault-door-3.md",
+    "retos-reverse/4-vault-door-4.md",
+    "retos-reverse/5-vault-door-5.md",
+    "retos-reverse/plantilla.md",
+    "retos-reverse/2-vault-door-1.md",
+    "retos-reverse/1-vault-door-training.md",
+    "archivosreverse/VaultDoor5.java",
+    "VaultDoor5.java",
+    "archivosreverse/VaultDoor4.java",
+    "VaultDoor4.java",
+    "archivosreverse/vaultdoor3codi.java",
+    "archivosreverse/Nuevo Documento de texto.txt",
+    "archivosreverse/VaultDoor3.java",
+    "VaultDoor3.java",
+    "archivosreverse/vaultdorr1.txt",
+    "retos-forence/plantilla.md",
+    "retos-crypto/8-ReadMyCert.md",
+    "retos-reverse",
     "codigos-crypto/scrambled1.png",
     "codigos-crypto/scrambled2.png",
-    "codigos-crypto/script6.py",
-    "codigos-crypto/script5.py",
-    "codigos-crypto/readmycert.csr",
     "retos-crypto/6- HideToSee.md",
     "retos-crypto/7-Pixelated.md",
-    "retos-crypto/8-ReadMyCert.md",
-    "readmycert.csr",
     "retos-WEB/plantilla.md",
-    "bin/stegsolve.jar",
-    "stegsolve.jar",
-    "bin",
     "scrambled1.png",
     "scrambled2.png",
-    "script6.py",
-    "Nuevo Documento de texto.txt",
     "retos-crypto/5-basic-mod1.md",
     "atbash.jpg",
     "retos-crypto/4-Mind your Ps and Qs.md",
@@ -182,15 +188,8 @@
     "retos-forence/8- m00nwalk.md",
     "retos-forence/9- WhitePages.md",
     "retos-forence/10- shark on wire 2.md",
-    "retos-forence/11- Matryoshka doll.md",
-    "retos-forence/12- tunn3l v1s10n.md",
-    "retos-forence/13- MacroHard WeakEdge.md",
-    "retos-forence/14- WebNet0.md",
-    "retos-forence/15- WebNet1.md",
     "archivosForence/pico.flag.png",
     "pico.flag.png",
-    "examen-2/10-information.md",
-    "examen-2/11-Wireshark doo dooo do doo....md",
     "archivosForence/drawing.flag.svg",
     "drawing.flag.svg",
     "archivosForence/cat.jpg",
