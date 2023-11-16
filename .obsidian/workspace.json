@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-reverse/1-vault-door-training.md",
+                "file": "retos-reverse/8-asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-reverse/1-vault-door-training.md",
+                "file": "retos-reverse/8-asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-reverse/1-vault-door-training.md",
+                "file": "retos-reverse/8-asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-reverse/1-vault-door-training.md"
+                "file": "retos-reverse/8-asm3.md"
               }
             }
           }
@@ -148,12 +148,16 @@
   },
   "active": "2749a3d6fd160aba",
   "lastOpenFiles": [
+    "retos-reverse/7-asm2.md",
+    "retos-reverse/8-asm3.md",
+    "retos-reverse/6-asm1.md",
+    "retos-reverse/Sin título.md",
+    "retos-reverse/plantilla.md",
+    "retos-reverse/1-vault-door-training.md",
     "retos-reverse/3-vault-door-3.md",
     "retos-reverse/4-vault-door-4.md",
     "retos-reverse/5-vault-door-5.md",
-    "retos-reverse/plantilla.md",
     "retos-reverse/2-vault-door-1.md",
-    "retos-reverse/1-vault-door-training.md",
     "archivosreverse/VaultDoor5.java",
     "VaultDoor5.java",
     "archivosreverse/VaultDoor4.java",
@@ -185,9 +189,6 @@
     "examen-2/15-Redaction gone wrong.md",
     "retos-forence/6- c0rrupt.md",
     "retos-forence/7-like1000.md",
-    "retos-forence/8- m00nwalk.md",
-    "retos-forence/9- WhitePages.md",
-    "retos-forence/10- shark on wire 2.md",
     "archivosForence/pico.flag.png",
     "pico.flag.png",
     "archivosForence/drawing.flag.svg",
