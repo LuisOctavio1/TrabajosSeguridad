@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-reverse/8-asm3.md",
+                "file": "retos-reverse/12-Need For Speed.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-reverse/8-asm3.md",
+                "file": "retos-reverse/12-Need For Speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-reverse/8-asm3.md",
+                "file": "retos-reverse/12-Need For Speed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-reverse/8-asm3.md"
+                "file": "retos-reverse/12-Need For Speed.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "2749a3d6fd160aba",
   "lastOpenFiles": [
+    "archivosreverse/need-for-speed",
+    "retos-reverse/11-reverse_cipher.md",
+    "retos-reverse/12-Need For Speed.md",
+    "retos-reverse/10-Safe Opener 2.md",
+    "retos-reverse/9-GDB Test Drive.md",
+    "retos-reverse/plantilla.md",
+    "retos-reverse/8-asm3.md",
     "archivosreverse/test.S",
     "archivosreverse/test (2).S",
     "archivosreverse/test (1).S",
@@ -155,10 +162,8 @@
     "test.S",
     "test (2).S",
     "retos-reverse/7-asm2.md",
-    "retos-reverse/8-asm3.md",
     "retos-reverse/6-asm1.md",
     "retos-reverse/Sin título.md",
-    "retos-reverse/plantilla.md",
     "retos-reverse/1-vault-door-training.md",
     "retos-reverse/3-vault-door-3.md",
     "retos-reverse/4-vault-door-4.md",
@@ -168,7 +173,6 @@
     "VaultDoor5.java",
     "archivosreverse/VaultDoor4.java",
     "VaultDoor4.java",
-    "archivosreverse/vaultdoor3codi.java",
     "retos-forence/plantilla.md",
     "retos-crypto/8-ReadMyCert.md",
     "codigos-crypto/scrambled1.png",
@@ -185,10 +189,6 @@
     "retos-crypto/1-rsa-pop-quiz.md",
     "retos-crypto/2-miniRSA.md",
     "examen-2/16-St3g0.md",
-    "examen-2/13- Lookey here.md",
-    "examen-2/14-Packets Primer.md",
-    "examen-2/15-Redaction gone wrong.md",
-    "retos-forence/6- c0rrupt.md",
     "archivosForence/pico.flag.png",
     "pico.flag.png",
     "archivosForence/drawing.flag.svg",
