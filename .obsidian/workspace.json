@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-reverse/12-Need For Speed.md",
+                "file": "retos-reverse/9-GDB Test Drive.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-reverse/12-Need For Speed.md",
+                "file": "retos-reverse/9-GDB Test Drive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-reverse/12-Need For Speed.md",
+                "file": "retos-reverse/9-GDB Test Drive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-reverse/12-Need For Speed.md"
+                "file": "retos-reverse/9-GDB Test Drive.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "2749a3d6fd160aba",
   "lastOpenFiles": [
-    "archivosreverse/need-for-speed",
+    "retos-reverse/10-Safe Opener 2.md",
     "retos-reverse/11-reverse_cipher.md",
     "retos-reverse/12-Need For Speed.md",
-    "retos-reverse/10-Safe Opener 2.md",
+    "archivosreverse/need-for-speed",
     "retos-reverse/9-GDB Test Drive.md",
     "retos-reverse/plantilla.md",
     "retos-reverse/8-asm3.md",
@@ -172,7 +172,6 @@
     "archivosreverse/VaultDoor5.java",
     "VaultDoor5.java",
     "archivosreverse/VaultDoor4.java",
-    "VaultDoor4.java",
     "retos-forence/plantilla.md",
     "retos-crypto/8-ReadMyCert.md",
     "codigos-crypto/scrambled1.png",
