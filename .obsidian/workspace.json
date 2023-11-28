@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-reverse/9-GDB Test Drive.md",
+                "file": "examen-3/8-Bit-O-Asm-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-reverse/9-GDB Test Drive.md",
+                "file": "examen-3/8-Bit-O-Asm-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-reverse/9-GDB Test Drive.md",
+                "file": "examen-3/8-Bit-O-Asm-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-reverse/9-GDB Test Drive.md"
+                "file": "examen-3/8-Bit-O-Asm-2.md"
               }
             }
           }
@@ -148,46 +148,46 @@
   },
   "active": "2749a3d6fd160aba",
   "lastOpenFiles": [
-    "retos-reverse/10-Safe Opener 2.md",
+    "examen-3/9-Bit-O-Asm-3.md",
+    "examen-3/10-Bit-O-Asm-3.md",
+    "examen-3/11-Bit-O-Asm-4.md",
+    "examen-3/12-GDB baby step 1.md",
+    "examen-3/13-GDB baby step 2.md",
+    "archivosreverse/debugger0_b",
+    "debugger0_b",
+    "retos-reverse/debugger0_a",
+    "debugger0_a",
+    "examen-3/8-Bit-O-Asm-2.md",
+    "examen-3/7-Bit-O-Asm-1.md",
+    "examen-3/6-ASCII FTW.md",
+    "retos-reverse/plantilla.md",
     "retos-reverse/11-reverse_cipher.md",
     "retos-reverse/12-Need For Speed.md",
-    "archivosreverse/need-for-speed",
+    "retos-reverse/10-Safe Opener 2.md",
     "retos-reverse/9-GDB Test Drive.md",
-    "retos-reverse/plantilla.md",
     "retos-reverse/8-asm3.md",
-    "archivosreverse/test.S",
-    "archivosreverse/test (2).S",
-    "archivosreverse/test (1).S",
-    "test (1).S",
-    "test.S",
-    "test (2).S",
     "retos-reverse/7-asm2.md",
+    "retos-reverse/5-vault-door-5.md",
     "retos-reverse/6-asm1.md",
+    "examen-3/5-SRA.md",
+    "retos-WEB/plantilla.md",
+    "examen-3/4-Mr-Worldwide.md",
+    "scriptexa.py",
+    "scriptexa.txt",
+    "Nuevo Documento de texto.txt",
+    "examen-3/chal.py",
+    "examen-3/3-Flags.md",
+    "examen-3/2-Vigenere.md",
+    "examen-3/1-transposition-trial.md",
+    "Sin título",
+    "examen-3/message.txt",
     "retos-reverse/Sin título.md",
     "retos-reverse/1-vault-door-training.md",
-    "retos-reverse/3-vault-door-3.md",
-    "retos-reverse/4-vault-door-4.md",
-    "retos-reverse/5-vault-door-5.md",
-    "retos-reverse/2-vault-door-1.md",
-    "archivosreverse/VaultDoor5.java",
-    "VaultDoor5.java",
-    "archivosreverse/VaultDoor4.java",
-    "retos-forence/plantilla.md",
-    "retos-crypto/8-ReadMyCert.md",
     "codigos-crypto/scrambled1.png",
     "codigos-crypto/scrambled2.png",
-    "retos-crypto/6- HideToSee.md",
-    "retos-crypto/7-Pixelated.md",
-    "retos-WEB/plantilla.md",
     "scrambled1.png",
     "scrambled2.png",
-    "retos-crypto/5-basic-mod1.md",
     "atbash.jpg",
-    "retos-crypto/4-Mind your Ps and Qs.md",
-    "retos-crypto/3-b00tl3gRSA2.md",
-    "retos-crypto/1-rsa-pop-quiz.md",
-    "retos-crypto/2-miniRSA.md",
-    "examen-2/16-St3g0.md",
     "archivosForence/pico.flag.png",
     "pico.flag.png",
     "archivosForence/drawing.flag.svg",
